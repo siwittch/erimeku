@@ -1,0 +1,75 @@
+﻿
+/* 文字コード指定 */
+@charset "utf-8";
+
+#headerContent {
+    border: solid 3px #ffa7b2;
+    width: 700px;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+#topPage {
+    width: 200px;
+    display: table-cell;
+}
+
+#headerTitle {
+    width: 300px;
+    display: table-cell;
+    text-align: center;
+}
+
+#headerBack {
+    width: 210px;
+    display: table-cell;
+    text-align: right;
+}
+
+
+
+#mainContent {
+    border: solid 3px #ffa7b2;
+    width: 700px;
+    height: 400px;
+}
+
+
+.dayWeek {
+    display: table-cell;
+    width: 100px;
+    text-align: center;
+    border-bottom: solid 3px #ffa7b2;
+}
+
+.test {
+    font-size: 30px;
+}
+
+.top > .haiso {
+    background: yellow;
+}
+
+.bottom > .haiso {
+    background: red;
+}
+
+
+#square {
+    width: 20px;
+    height: 20px;
+    background: red;
+    border: 2px solid black;
+    margin-top:5px;
+}
+
+#space {
+    width: 40px;
+    height: 40px;
+    border:2px solid black;
+    margin-top:5px;
+}
+
+.grayOut {
+    background-color:gray;
+}
