@@ -1,6 +1,8 @@
 ﻿// JavaScript source code
 // tech-drill 
 
+// erimeku test
+
 var gSC3SJ10001;
 
 (function () {
