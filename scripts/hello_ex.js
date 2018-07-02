@@ -1,8 +1,9 @@
 ﻿// JavaScript source code
 // tech-drill 
 
-var gSC3SJ10001;
 
+// spnptugiですよ
+var gSC3SJ10001;
 (function () {
 
     gSC3SJ10001 = {
