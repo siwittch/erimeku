@@ -3,6 +3,8 @@
 
 // erimeku test
 
+// erimkeu その２だよー
+
 var gSC3SJ10001;
 
 (function () {
